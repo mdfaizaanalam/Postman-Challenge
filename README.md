@@ -78,4 +78,4 @@ Watch the Video: 🔗 [Link](https://www.loom.com/share/a298d6521a4d4916878f41fa
 </div>
 ```
 
-#### Thank you for participating and contributing to our learning community! 🙌
+### Thank you for participating and contributing to our learning community! 🙌
